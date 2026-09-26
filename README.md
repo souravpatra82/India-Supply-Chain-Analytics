@@ -156,9 +156,7 @@ The Excel dashboard provides an interactive view of India supply chain performan
 </p>
 
 <p align="center">
-<img src="Dashboard_Screenshots/India_Supply_Chain_Excel_Dashboard.png"
-alt="India Supply Chain Excel Dashboard"
-width="100%">
+<img src="https://github.com/souravpatra82/India-Supply-Chain-Analytics/blob/b24daffcccd3d6816937bf8a54d2b069dd0929bc/India_Supply_Chain_Performance_Dashboard.png/India_Supply_Chain_Performance_Dashboard.png.png">
 </p>
 
 <h3>Dashboard Components</h3>
